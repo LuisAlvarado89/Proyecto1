@@ -1,9 +1,57 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.7">
   <diagram name="Página-1" id="O5beDDzp4m1SNn2A3FI_">
-    <mxGraphModel>
+    <mxGraphModel dx="1051" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="U1PU8HSO9dPd2CjFxeWQ-1" value="socios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U1PU8HSO9dPd2CjFxeWQ-2" value="Libro" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U1PU8HSO9dPd2CjFxeWQ-3" value="Volumen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U1PU8HSO9dPd2CjFxeWQ-4" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U1PU8HSO9dPd2CjFxeWQ-5" value="DNI" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U1PU8HSO9dPd2CjFxeWQ-6" value="Dirección" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U1PU8HSO9dPd2CjFxeWQ-7" value="Teléfono" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U1PU8HSO9dPd2CjFxeWQ-8" value="Nombre/Apellido" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U1PU8HSO9dPd2CjFxeWQ-9" value="Titulo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="100" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U1PU8HSO9dPd2CjFxeWQ-10" value="Editorial" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="190" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U1PU8HSO9dPd2CjFxeWQ-11" value="Año Escrito" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="80" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U1PU8HSO9dPd2CjFxeWQ-12" value="Año Edición" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="290" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U1PU8HSO9dPd2CjFxeWQ-13" value="Autor" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="300" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U1PU8HSO9dPd2CjFxeWQ-14" value="ISBN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="190" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U1PU8HSO9dPd2CjFxeWQ-15" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="585" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U1PU8HSO9dPd2CjFxeWQ-16" value="Estado" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="585" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
