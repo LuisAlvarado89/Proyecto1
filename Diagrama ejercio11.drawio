@@ -8,7 +8,7 @@
           <mxGeometry x="170" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U1PU8HSO9dPd2CjFxeWQ-2" value="Libro" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U1PU8HSO9dPd2CjFxeWQ-3" value="Volumen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="500" width="120" height="60" as="geometry" />
