@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0" version="29.0.2">
   <diagram name="Página-1" id="lKiMM1fKBcyCz6x6XD2D">
-    <mxGraphModel dx="2063" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1878" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZPpbfQGb8CJx3_-KB9l0-1" value="Empleado (&lt;u&gt;NIF,&lt;/u&gt;&amp;nbsp;nombre, apellido, titulación, teléfono, fecha_nac,&amp;nbsp;&lt;u&gt;cod_departamento&lt;/u&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="70" width="530" height="30" as="geometry" />
+        <mxCell id="ZPpbfQGb8CJx3_-KB9l0-1" value="Empleado (&lt;u&gt;NIF,&lt;/u&gt;&amp;nbsp;nombre, apellido, titulación, teléfono, fecha_nac,&amp;nbsp;&lt;u&gt;cod_departamento&lt;/u&gt;)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="50" width="530" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZPpbfQGb8CJx3_-KB9l0-2" value="Español(&amp;nbsp;&lt;u&gt;NIF,&lt;/u&gt;&amp;nbsp;Nun_cuenta)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="130" width="270" height="30" as="geometry" />
@@ -117,6 +117,28 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="560" as="sourcePoint" />
             <mxPoint x="140" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qDeTbFDN3rJOl4Bpc5kW-8" value="Departamento(&lt;u&gt;Cod_departamento,&lt;/u&gt;&amp;nbsp;nombre_dep)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="820" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qDeTbFDN3rJOl4Bpc5kW-9" value="Sección(&amp;nbsp;&lt;u&gt;Cod_sección,&amp;nbsp;Cod_dep&lt;/u&gt;, nombre_sección, área)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="910" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDeTbFDN3rJOl4Bpc5kW-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="930" as="sourcePoint" />
+            <mxPoint x="200" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qDeTbFDN3rJOl4Bpc5kW-11" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.904;entryY=0.896;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qDeTbFDN3rJOl4Bpc5kW-8" target="ZPpbfQGb8CJx3_-KB9l0-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="740" as="sourcePoint" />
+            <mxPoint x="410" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="810" y="540" />
+              <mxPoint x="710" y="310" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
